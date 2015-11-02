@@ -1,0 +1,29 @@
+1. When does the ball come in control of Pl.X ? 
+2. goalkeeper movement - when ball is with him
+  		       - otherwise (easy)
+3. move towards goal post
+4. pass
+5. kick - 
+bot mode for the 2nd player
+6. reflect
+7. player - mobility/strength
+8. power kick - key time
+9. player overlap	- Arun
+10. players should not go outside boundaries.	- Done
+11. Swap sides after first half.
+12. Goal	- Arun	
+13. Display scores/time	-Arun
+14. Timer - Arun
+15. Sound effects 
+16. Networking :-  Multiplayer1
+17. Options Window
+18. Diagonal movement
+
+
+BONUS
+
+1. Penalty shootout
+2. Weather
+
+
+
